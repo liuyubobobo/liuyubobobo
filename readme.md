@@ -102,4 +102,4 @@ Canvas 应用：[玩儿转红包照片](https://www.imooc.com/learn/601) \| [代
 
 私有代码仓里的神秘项目，就不能公开了：）👻
 
-![qrcode](qrcode.png)
+![qrcode](https://raw.githubusercontent.com/liuyubobobo/liuyubobobo/master/qrcode.png)
