@@ -101,3 +101,5 @@ Canvas 应用：[玩儿转红包照片](https://www.imooc.com/learn/601) \| [代
 </tr></table>
 
 私有代码仓里的神秘项目，就不能公开了：）👻
+
+![qrcode](qrcode.png)
