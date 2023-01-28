@@ -10,7 +10,7 @@
 
 ### 收费课程
 
-算法和数据结构体系课程[即将上线]
+算法和数据结构体系课程 [课程](https://class.imooc.com/sale/datastructure)
 
 玩转图论算法 [课程](https://coding.imooc.com/class/370.html) \| [代码仓](https://github.com/liuyubobobo/Play-with-Graph-Algorithms)
 
@@ -18,7 +18,7 @@
 
 C++ 算法和数据结构 [课程](https://coding.imooc.com/class/71.html) \| [代码仓](https://github.com/liuyubobobo/Play-with-Algorithms)
 
-C++ 玩转算法面试 [课程](https://github.com/liuyubobobo/Play-with-Algorithms) \| [代码仓](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
+C++ 玩转算法面试 [课程](https://coding.imooc.com/class/82.html) \| [代码仓](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
 
 Python 3 入门机器学习 [课程](https://coding.imooc.com/class/169.html) \| [代码仓](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 
